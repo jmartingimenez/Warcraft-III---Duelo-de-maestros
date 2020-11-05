@@ -1,5 +1,7 @@
 # Warcraft III - Duelo de maestros
 
+*Duelo de maestros ofrece una selección de heroés para enfrentarse en combates 1v1. Cada uno posee una habilidad propia, una habilidad compartida por todos, y puede comprar dos habilidades junto a un objeto con alguna utilidad determinada para personalizar cada batalla. La particularidad del gameplay consiste en que no puede controlarse el movimiento de los heroés de forma directa. De forma natural ambos contendientes buscaran atacarse. **Pueden esquivarse ataques o reposicionarse usando la habilidad de teletransportación**, compartida por todos los heroés.*
+
 ![Imagen del gameplay](Images/SS_03_Pelea.png)
 
 Este repositorio contiene las versiones desprotegidas de un proyecto de mapping realizado con la herramienta World Editor que empecé hace algunos años.
