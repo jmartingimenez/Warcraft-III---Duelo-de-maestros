@@ -1,6 +1,6 @@
 # Warcraft III - Duelo de maestros
 
-*Duelo de maestros ofrece una selección de heroés para enfrentarse en combates 1v1. Cada uno posee una habilidad propia, una habilidad compartida por todos, y puede comprar dos habilidades junto a un objeto con alguna utilidad determinada para personalizar cada batalla. La particularidad del gameplay consiste en que no puede controlarse el movimiento de los heroés de forma directa. De forma natural ambos contendientes buscaran atacarse. **Pueden esquivarse ataques o reposicionarse usando la habilidad de teletransportación**, compartida por todos los heroés.*
+*Duelo de maestros ofrece una selección de héroes para enfrentarse en combates 1v1. Cada uno posee una habilidad propia, una habilidad compartida por todos, y puede comprar dos habilidades junto a un objeto con alguna utilidad determinada para personalizar cada batalla. La particularidad del gameplay consiste en que no puede controlarse el movimiento de los héroes de forma directa. De forma natural ambos contendientes buscaran atacarse. **Pueden esquivarse ataques o reposicionarse usando la habilidad de teletransportación**, compartida por todos los héroes.*
 
 ![Imagen del gameplay](Images/SS_03_Pelea.png)
 
@@ -24,7 +24,7 @@ El repositorio contiene las versiones principales del mapa totalmente desprotegi
 El mapa desprotegido puede servir para alguien intentando aprender a usar el editor de mundos de Warcraft III. El mapa contiene entre varios sistemas lo siguiente...
 
 ```
-* Sistema de selección de heroés en taverna
+* Sistema de selección de héroes en taverna
 * Sistema de compra de habilidades u objetos
 * Manejo de regiones
 * Validación de cantidad de jugadores
@@ -43,8 +43,8 @@ El mapa desprotegido puede servir para alguien intentando aprender a usar el edi
 * Uso de preload para precargar recursos al inicio
 * Manejo de Arrays para control de jugadores, habilidades u objetos
 * Textos flotantes para ciertas ocasiones
-* IA para cada heroé (Triggers que se activan/desactivan)
-* IA para uso de habilidades/objetos por heroés manejados por IA
+* IA para cada héroe (Triggers que se activan/desactivan)
+* IA para uso de habilidades/objetos por héroes manejados por IA
 * Control de Memory Leaks
 ```
 
@@ -66,6 +66,6 @@ El mapa desprotegido puede servir para alguien intentando aprender a usar el edi
 
 ![Imagen del editor de triggers](Images/TR_02_Mensaje_con_colores.PNG)
 
-### Ejemplo de trigger para la IA de un heroé
+### Ejemplo de trigger para la IA de un héroe
 
 ![Imagen del editor de triggers](Images/TR_03_IA_Treant.PNG)
